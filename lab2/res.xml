@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><name>Інженерно-хiмiчний факультет</name><url>https://kpi.ua/ixf</url></item>
+<item><name>Приладобудiвний факультет</name><url>https://kpi.ua/pbf</url></item>
+<item><name>Радiотехнiчний факультет</name><url>https://kpi.ua/rtf</url></item>
+<item><name>Факультет біомедичної інженерії</name><url>https://kpi.ua/fbmi</url></item>
+<item><name>Факультет бiотехнологiї i бiотехнiки</name><url>https://kpi.ua/fbt</url></item>
+<item><name>Факультет електроенерготехнiки та автоматики</name><url>https://kpi.ua/fea</url></item>
+<item><name>Факультет електронiки</name><url>https://kpi.ua/fel</url></item>
+<item><name>Факультет iнформатики та обчислювальної технiки</name><url>https://kpi.ua/fiot</url></item>
+<item><name>Факультет лiнгвiстики</name><url>https://kpi.ua/fl</url></item>
+<item><name>Факультет менеджменту та маркетингу</name><url>https://kpi.ua/fmm</url></item>
+<item><name>Факультет соціології і права</name><url>https://kpi.ua/fsp</url></item>
+<item><name>Факультет прикладної математики</name><url>https://kpi.ua/fpm</url></item>
+<item><name>Фiзико-математичний факультет</name><url>https://kpi.ua/fmf</url></item>
+<item><name>Хiмiко-технологiчний факультет</name><url>https://kpi.ua/xtf</url></item>
+<item><name>- Кафедра автоматизації електромеханічних систем та електроприводу</name><url>https://kpi.ua/epa</url><faculty>Факультет електроенерготехнiки та автоматики</faculty></item>
+<item><name>- Кафедра автоматизації енергосистем</name><url>https://kpi.ua/ae</url><faculty>Факультет електроенерготехнiки та автоматики</faculty></item>
+<item><name>- Кафедра відновлюваних джерел енергії</name><url>https://kpi.ua/vde</url><faculty>Факультет електроенерготехнiки та автоматики</faculty></item>
+<item><name>- кафедра загальної та неорганічної хімії</name><url>https://kpi.ua/kznh</url><faculty>Хiмiко-технологiчний факультет</faculty></item>
+<item><name>- кафедра органічної хімії та технології органічних речовин</name><url>https://kpi.ua/orgchem</url><faculty>Хiмiко-технологiчний факультет</faculty></item>
+<item><name>- кафедра технології електрохімічних виробництв</name><url>https://kpi.ua/electrochemistry</url><faculty>Хiмiко-технологiчний факультет</faculty></item>
+<item><name>- кафедра англійської мови технічного спрямування № 1</name><url>https://kpi.ua/kamts1</url><faculty>Факультет лiнгвiстики</faculty></item>
+<item><name>- кафедра англійської мови технічного спрямування № 2</name><url>https://kpi.ua/kamts2</url><faculty>Факультет лiнгвiстики</faculty></item>
+<item><name>- кафедра англійської мови гуманітарного спрямування № 3</name><url>https://kpi.ua/kamgs3</url><faculty>Факультет лiнгвiстики</faculty></item>
+<item><name>- Кафедра інформатики та програмної інженерії</name><url>https://kpi.ua/ipi</url><faculty>Факультет iнформатики та обчислювальної технiки</faculty></item>
+<item><name>- Кафедра інформаційних систем та технологій</name><url>https://kpi.ua/ist-fiot</url><faculty>Факультет iнформатики та обчислювальної технiки</faculty></item>
+<item><name>- Кафедра обчислювальної технiки</name><url>https://kpi.ua/comsys</url><faculty>Факультет iнформатики та обчислювальної технiки</faculty></item>
+<item><name>- Про кафедру біотехніки та інженерії</name><url>https://kpi.ua/bti</url><faculty>Факультет бiотехнологiї i бiотехнiки</faculty></item>
+<item><name>- Про кафедру біоенергетики, біоінформатики та екобіотехнології</name><url>https://kpi.ua/kbbe</url><faculty>Факультет бiотехнологiї i бiотехнiки</faculty></item>
+<item><name>- Про кафедру промислової біотехнології та біофармації</name><url>https://kpi.ua/pbt</url><faculty>Факультет бiотехнологiї i бiотехнiки</faculty></item>
+<item><name>- кафедра біобезпеки і здоров'я людини</name><url>https://kpi.ua/bbzl</url><faculty>Факультет біомедичної інженерії</faculty></item>
+<item><name>- кафедра біомедичної інженерії</name><url>https://kpi.ua/bmi</url><faculty>Факультет біомедичної інженерії</faculty></item>
+<item><name>- кафедра біомедичної кібернетики </name><url>https://kpi.ua/bmc</url><faculty>Факультет біомедичної інженерії</faculty></item>
+<item><name>
+</name><department>- Кафедра автоматизації енергосистем</department></item>
+<item><name>
+</name><department>- Кафедра автоматизації енергосистем</department></item>
+<item><name>
+</name><department>- Кафедра автоматизації енергосистем</department></item>
+<item><name>
+</name><department>- Кафедра автоматизації енергосистем</department></item>
+<item><name>
+</name><department>- Кафедра автоматизації енергосистем</department></item>
+<item><name>
+</name><department>- Кафедра автоматизації енергосистем</department></item>
+<item><name>
+</name><department>- Кафедра автоматизації енергосистем</department></item>
+<item><name>Відкрита студентська інтернет-олімпіада з англійської мови  та математики</name><department>- кафедра англійської мови технічного спрямування № 2</department></item>
+<item><name>ТАРАС ШЕВЧЕНКО ЯК ПРОВИДЕЦЬ МАЙБУТНЬОГО УКРАЇНИ</name><department>- кафедра англійської мови технічного спрямування № 2</department></item>
+<item><name>Дорогі КПІшниці!</name><department>- кафедра англійської мови технічного спрямування № 2</department></item>
+<item><name>Вітаємо переможців конкурсу декламації поезій Т. Г. Шевченка, присвяченого 210 річниці від дня народження.</name><department>- кафедра англійської мови технічного спрямування № 2</department></item>
+<item><name>Наукові публікації березня категорії Б (філологія)</name><department>- кафедра англійської мови технічного спрямування № 2</department></item>
+<item><name>ПУБЛІКАЦІЯ В НАУКОВОМУ ЗБІРНИКУ «АКТУАЛЬНІ ПИТАННЯ ГУМАНІТАРНИХ НАУК: МІЖВУЗІВСЬКИЙ ЗБІРНИК НАУКОВИХ ПРАЦЬ МОЛОДИХ ВЧЕНИХ ДРОГОБИЦЬКОГО ДЕРЖАВНОГО ПЕДАГОГІЧНОГО УНІВЕРСИТЕТУ ІМЕНІ ІВАНА ФРАНКА» ВИПУСК № 73 / 2024</name><department>- кафедра англійської мови технічного спрямування № 2</department></item>
+<item><name>ОНЛАЙН-КУРС ДЛЯ ОСВІТЯН «ЦИФРОВІ НАВИЧКИ ДЛЯ ОСВІТИ З GOOGLE»</name><department>- кафедра англійської мови технічного спрямування № 2</department></item>
+<item><name>Пісня Артема Пивоварова і Надії Дорофєєвої ” Думи. Думи мої, думи…” на слова Т.Г.Шевченка з коментарями студентів-першокурсників КПІ ім. Ігоря Сікорського</name><department>- кафедра англійської мови технічного спрямування № 2</department></item>
+<item><name>НАВЧАННЯ ЗА ДОПОМОГОЮ ЦИФРОВИХ ТЕХНОЛОГІЙ – УСІ ЦИФРОВІ МЕТОДИ НАВЧАННЯ, ЯКІ ВАМ ПОТРІБНО ЗНАТИ.</name><department>- кафедра англійської мови технічного спрямування № 2</department></item>
+<item><name>English For Science. The 6th online meeting of English club.</name><department>- кафедра англійської мови технічного спрямування № 2</department></item>
+<item><name>ЗУ-Каталог-2024 вибіркових навчальних дисциплін</name><department>- Кафедра обчислювальної технiки</department></item>
+<item><name>Матеріали V Міжнародної науково-практичної конференції молодих вчених та студентів «Інженерія програмного забезпечення і передові інформаційні технології (SoftTech-2023)» присвяченої 125-й річниці КПІ ім. Ігоря Сікорського</name><department>- Кафедра обчислювальної технiки</department></item>
+<item><name>Екзаменаційні комісії в червні 2024 р.</name><department>- Кафедра обчислювальної технiки</department></item>
+<item><name>Вебінар “Дослідницькі дані: право на конфіденційність”</name><department>- Кафедра обчислювальної технiки</department></item>
+<item><name>Про проведення Всеукраїнської відкритої студентської інтернет-олімпіади з англійської мови та фізики для студентів усіх немовних спеціальностей 1-3 курсів бакалаврату</name><department>- Кафедра обчислювальної технiки</department></item>
+<item><name>Каталог вибіркових дисциплін для PhD, аспірантам 2023 року вступу</name><department>- Кафедра обчислювальної технiки</department></item>
+<item><name>Каталог вибіркових дисциплін для бакалаврів на 24/25 навчальний рік</name><department>- Кафедра обчислювальної технiки</department></item>
+<item><name>Каталог вибіркових дисциплін для PhD!</name><department>- Кафедра обчислювальної технiки</department></item>
+<item><name>Каталог вибіркових дисциплін для бакалаврів!</name><department>- Кафедра обчислювальної технiки</department></item>
+<item><name>Викладач очима студентів</name><department>- Кафедра обчислювальної технiки</department></item>
+<item><name>Відкрита студентська інтернет-олімпіада з англійської мови  та математики</name><department>- кафедра англійської мови технічного спрямування № 1</department></item>
+<item><name>ТАРАС ШЕВЧЕНКО ЯК ПРОВИДЕЦЬ МАЙБУТНЬОГО УКРАЇНИ</name><department>- кафедра англійської мови технічного спрямування № 1</department></item>
+<item><name>Дорогі КПІшниці!</name><department>- кафедра англійської мови технічного спрямування № 1</department></item>
+<item><name>Вітаємо переможців конкурсу декламації поезій Т. Г. Шевченка, присвяченого 210 річниці від дня народження.</name><department>- кафедра англійської мови технічного спрямування № 1</department></item>
+<item><name>Наукові публікації березня категорії Б (філологія)</name><department>- кафедра англійської мови технічного спрямування № 1</department></item>
+<item><name>ПУБЛІКАЦІЯ В НАУКОВОМУ ЗБІРНИКУ «АКТУАЛЬНІ ПИТАННЯ ГУМАНІТАРНИХ НАУК: МІЖВУЗІВСЬКИЙ ЗБІРНИК НАУКОВИХ ПРАЦЬ МОЛОДИХ ВЧЕНИХ ДРОГОБИЦЬКОГО ДЕРЖАВНОГО ПЕДАГОГІЧНОГО УНІВЕРСИТЕТУ ІМЕНІ ІВАНА ФРАНКА» ВИПУСК № 73 / 2024</name><department>- кафедра англійської мови технічного спрямування № 1</department></item>
+<item><name>ОНЛАЙН-КУРС ДЛЯ ОСВІТЯН «ЦИФРОВІ НАВИЧКИ ДЛЯ ОСВІТИ З GOOGLE»</name><department>- кафедра англійської мови технічного спрямування № 1</department></item>
+<item><name>Пісня Артема Пивоварова і Надії Дорофєєвої ” Думи. Думи мої, думи…” на слова Т.Г.Шевченка з коментарями студентів-першокурсників КПІ ім. Ігоря Сікорського</name><department>- кафедра англійської мови технічного спрямування № 1</department></item>
+<item><name>НАВЧАННЯ ЗА ДОПОМОГОЮ ЦИФРОВИХ ТЕХНОЛОГІЙ – УСІ ЦИФРОВІ МЕТОДИ НАВЧАННЯ, ЯКІ ВАМ ПОТРІБНО ЗНАТИ.</name><department>- кафедра англійської мови технічного спрямування № 1</department></item>
+<item><name>English For Science. The 6th online meeting of English club.</name><department>- кафедра англійської мови технічного спрямування № 1</department></item>
+<item><name>Перший календарний контроль весняного семестру 2023/2024 вже незабаром</name><department>- кафедра біомедичної інженерії</department></item>
+<item><name>З Міжнародним днем боротьби за права жінок</name><department>- кафедра біомедичної інженерії</department></item>
+<item><name>Конкурс «Молодий вчений року – 2023»</name><department>- кафедра біомедичної інженерії</department></item>
+<item><name>Національний конкурс «Відродження та інноваційний розвиток України»</name><department>- кафедра біомедичної інженерії</department></item>
+<item><name>Випуск магістрів Факультету біомедичної інженерії 2024</name><department>- кафедра біомедичної інженерії</department></item>
+<item><name>Опитування «Викладач очима студентів» продовжено до 29.02.2024</name><department>- кафедра біомедичної інженерії</department></item>
+<item><name>День відкритих дверей КПІАбітFest 17 лютого онлайн</name><department>- кафедра біомедичної інженерії</department></item>
+<item><name>Інженерія та технології протезування</name><department>- кафедра біомедичної інженерії</department></item>
+<item><name>Науковий семінар від кафедри біомедичної кібернетики</name><department>- кафедра біомедичної інженерії</department></item>
+<item><name>Не старіють душею ветерани! Кашину І.А. 100 років!</name><department>- кафедра біомедичної інженерії</department></item>
+<item><name>
+</name><department>- Про кафедру біотехніки та інженерії</department></item>
+<item><name>
+</name><department>- Про кафедру біотехніки та інженерії</department></item>
+<item><name>
+</name><department>- Про кафедру біотехніки та інженерії</department></item>
+<item><name>
+</name><department>- Про кафедру біотехніки та інженерії</department></item>
+<item><name>
+</name><department>- Про кафедру біотехніки та інженерії</department></item>
+<item><name>
+</name><department>- Про кафедру біотехніки та інженерії</department></item>
+<item><name>
+</name><department>- Про кафедру біотехніки та інженерії</department></item>
+</items>

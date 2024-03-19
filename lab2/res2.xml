@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><name>Інженерно-хiмiчний факультет</name><url>https://kpi.ua/ixf</url></item>
+<item><name>Приладобудiвний факультет</name><url>https://kpi.ua/pbf</url></item>
+<item><name>Радiотехнiчний факультет</name><url>https://kpi.ua/rtf</url></item>
+<item><name>Факультет біомедичної інженерії</name><url>https://kpi.ua/fbmi</url></item>
+<item><name>Факультет бiотехнологiї i бiотехнiки</name><url>https://kpi.ua/fbt</url></item>
+<item><name>Факультет електроенерготехнiки та автоматики</name><url>https://kpi.ua/fea</url></item>
+<item><name>Факультет електронiки</name><url>https://kpi.ua/fel</url></item>
+<item><name>Факультет iнформатики та обчислювальної технiки</name><url>https://kpi.ua/fiot</url></item>
+<item><name>Факультет лiнгвiстики</name><url>https://kpi.ua/fl</url></item>
+<item><name>Факультет менеджменту та маркетингу</name><url>https://kpi.ua/fmm</url></item>
+<item><name>Факультет соціології і права</name><url>https://kpi.ua/fsp</url></item>
+<item><name>Факультет прикладної математики</name><url>https://kpi.ua/fpm</url></item>
+<item><name>Фiзико-математичний факультет</name><url>https://kpi.ua/fmf</url></item>
+<item><name>Хiмiко-технологiчний факультет</name><url>https://kpi.ua/xtf</url></item>
+<item><name>кафедра економіки та підприємництва</name><url>https://kpi.ua/keip</url><faculty>Факультет менеджменту та маркетингу</faculty></item>
+<item><name>кафедра економічної кібернетики</name><url>https://kpi.ua/ecocyber</url><faculty>Факультет менеджменту та маркетингу</faculty></item>
+<item><name>кафедра менеджменту підприємств</name><url>https://kpi.ua/kmfmm</url><faculty>Факультет менеджменту та маркетингу</faculty></item>
+<item><name>Кафедра технічних та програмних засобів автоматизації</name><url>https://kpi.ua/ahv</url><faculty>Інженерно-хiмiчний факультет</faculty></item>
+<item><name>Кафедра екології та технології рослинних полімерів</name><url>https://kpi.ua/eco-paper</url><faculty>Інженерно-хiмiчний факультет</faculty></item>
+<item><name>Кафедра машин та апаратів хімічних і нафтопереробних виробництв</name><url>https://kpi.ua/maxnv</url><faculty>Інженерно-хiмiчний факультет</faculty></item>
+<item><name>
+</name><department>- кафедра економічної кібернетики</department></item>
+<item><name>
+</name><department>- кафедра економічної кібернетики</department></item>
+<item><name>
+</name><department>- кафедра економічної кібернетики</department></item>
+<item><name>
+</name><department>- кафедра економічної кібернетики</department></item>
+<item><name>
+</name><department>- кафедра економічної кібернетики</department></item>
+<item><name>
+</name><department>- кафедра економічної кібернетики</department></item>
+<item><name>
+</name><department>- кафедра економічної кібернетики</department></item>
+<item><name>КПІАбітTalks з Віталієм Цапарем про ІХФ 06.03.2024</name><department>- Кафедра технічних та програмних засобів автоматизації</department></item>
+<item><name>День відкритих дверей ІХФ 23.02.2024</name><department>- Кафедра технічних та програмних засобів автоматизації</department></item>
+<item><name>Вебінар Schneider Electric</name><department>- Кафедра технічних та програмних засобів автоматизації</department></item>
+<item><name>День відкритих дверей 23.02.2024</name><department>- Кафедра технічних та програмних засобів автоматизації</department></item>
+<item><name>Вебінар “HARTU webinar – How to pick (almost) anything: soft-grippers revolution</name><department>- Кафедра технічних та програмних засобів автоматизації</department></item>
+<item><name>Підтвердження диплому Корінчук Катерини</name><department>- Кафедра технічних та програмних засобів автоматизації</department></item>
+<item><name>Анонс інтерв’ю із Музикою Світланою</name><department>- Кафедра технічних та програмних засобів автоматизації</department></item>
+<item><name>Інформація про очне навчання на весну 2023/2024</name><department>- Кафедра технічних та програмних засобів автоматизації</department></item>
+<item><name>Вітаємо переможців програми підтримки студентських науково-технічних проєктів</name><department>- Кафедра технічних та програмних засобів автоматизації</department></item>
+<item><name>Міжнародний проект MASTERLY</name><department>- Кафедра технічних та програмних засобів автоматизації</department></item>
+</items>
